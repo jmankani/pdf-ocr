@@ -39,6 +39,10 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 
+# Ignore results folders
+results/
+legacy_results/
+
 # Ignore all input PDFs
 *.pdf
 .tox/
